@@ -1,0 +1,14 @@
+c:\users\fetyka\documents\visual studio 2015\Projects\leltar\leltar\bin\Debug\leltar.exe.config
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\bin\Debug\leltar.exe
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\bin\Debug\leltar.pdb
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\leltar.csprojResolveAssemblyReference.cache
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\MainWindow.g.cs
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\App.g.cs
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\leltar_MarkupCompile.cache
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\leltar_MarkupCompile.lref
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\MainWindow.baml
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\leltar.g.resources
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\leltar.Properties.Resources.resources
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\leltar.csproj.GenerateResource.Cache
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\leltar.exe
+C:\Users\fEtyka\Documents\Visual Studio 2015\Projects\leltar\leltar\obj\Debug\leltar.pdb
